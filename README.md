@@ -18,8 +18,6 @@ I hope it works :/
 
 Edit: After completion of project -
 
-Thank you everyone for checking out the video, if you haven't it explains code in detail: https://www.youtube.com/watch?v=8-B6ryuBkCM
-
 ## **Building Requirements:**
 
 1. C++ Compiler supporting C++ 17 or newer
@@ -33,7 +31,7 @@ Thank you everyone for checking out the video, if you haven't it explains code i
 ## **Build Instructions:**
 
 1. Clone the repository:
-	-  `git clone https://github.com/kavan010/black_hole.git`
+	-  `git clone https://github.com/SwAsTiK6937/Black_hole.git`
 2. CD into the newly cloned directory
 	- `cd ./black_hole` 
 3. Install dependencies with Vcpkg
@@ -58,4 +56,4 @@ for 3D: black_hole.cpp and geodesic.comp work together to run the simuation fast
 
 should work with nessesary dependencies installed, however I have only run it on windows with my GPU so am not sure!
 
-LMK if you would like an in-depth explanation of how the code works aswell :)
+:)
